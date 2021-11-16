@@ -1,0 +1,11 @@
+.flag {
+    width: 180px;
+    height: 120px;
+    margin: auto;
+    border: 1px solid black;
+
+}
+
+p {
+    text-align:center;
+}
